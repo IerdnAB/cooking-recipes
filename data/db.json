@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Pizza",
+      "ingredients": [
+        "300g Flour",
+        "Tomato Sauce",
+        "200g Cheese",
+        "1g instant yeast",
+        "8g salt"
+      ],
+      "method": "Pre-heat the oven to 240C. In a bowl, add your ingredients and combine. Kneed for about 10 minutes until a smooth dough ball is formed. Leave to rise for about 4 hours. Shape your dough into a pizza shape, add tomato sauce and cheese and cook for about 10 minutes. ",
+      "cookingTime": "10 minutes"
+    },
+    {
+      "title": "Scrambled Eggs ",
+      "ingredients": [
+        "Eggs",
+        "Salt",
+        "Pepper"
+      ],
+      "method": "In a bow whisk 4 eggs. Add a pinch of salt and pepper. In a frying pan, add cooking oil, let it heat for about 1 minute, and then add the whisked eggs. Stir the eggs until cooked. ",
+      "cookingTime": "10 minutes",
+      "id": "iZIYzd_"
+    }
+  ]
+}
