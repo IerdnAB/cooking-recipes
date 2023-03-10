@@ -10,5 +10,5 @@ The recipes are displayed as condensed cards which can then be expanded.
 React context, which is used as a custom hook, together with useReducer is used to create a dark theme mode. 
 
 Updated version with react router 6 to follow once this project is completed. 
-=======
->>>>>>> d4903d4d6514f2b9272bb6add8bdb8e597e1e7f3
+
+
