@@ -6,7 +6,7 @@ The application has a search functionality to handle recipe searchers, a create 
 
 The recipes are displayed as condensed cards which can then be expanded. 
 
-React context, which is used as a custom hook, together with useReducer is used to create a dark theme mode. 
+React context, which is used as a custom hook, together with useReducer is used to create a dark theme mode, toggle between light and dark mode added and navbar theme color selector added. 
 
 Updated version with react router 6 to follow once this project is completed. 
 
